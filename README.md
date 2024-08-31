@@ -39,5 +39,5 @@
 ### 🔗 결과 이미지
 ![결과보고서_발표용_21](https://github.com/MilkyQuartz/Demon_Tournament/assets/141620531/b337740f-71de-4a3e-943e-8df7b794595b)
 
-### 🔗 기능 영상
+### 🔗 기능 영상 << 이미지를 클릭하시면 영상링크로 이동됩니다.
 [![결과보고서_발표용_22](https://github.com/MilkyQuartz/Demon_Tournament/assets/141620531/765eef22-85a5-425c-bc1d-19d1244bd2dc)](https://www.youtube.com/watch?v=7W-ZHoFFLw4)
